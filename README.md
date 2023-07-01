@@ -76,7 +76,7 @@ The system is designed using a microservices architecture pattern, where each mi
 
 1.  Clone the repository to your local machine:
 	```sh
-	 git clone https://github.com/your-repo/order-management-system.git 
+	 git clone https://github.com/Ali-Modassir/SpringBoot-Microservices.git
     ```
 2.  Set up and configure MongoDB for the Product Service. Refer to the MongoDB documentation for installation instructions.
     
