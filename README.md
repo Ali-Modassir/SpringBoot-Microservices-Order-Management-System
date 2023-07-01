@@ -4,7 +4,7 @@ This is a detailed guide on setting up and using the Order Management System. Th
 
 ## Microservices Overview
 
-![Microservices overview](https://drive.google.com/file/d/1hWdB5Jv9bhBjvw1rscKEQEQhGUXyt9Hq/view?usp=sharing)
+![Microservices overview](https://github-production-user-asset-6210df.s3.amazonaws.com/56336283/250305353-34677dd3-74b4-4cff-942e-414e0504efa3.png)
 
 ### Product Service
 
