@@ -2,6 +2,14 @@
 
 This is a detailed guide on setting up and using the Order Management System. The system is built using Spring Boot microservices and consists of three microservices: Order Service, Product Service, and Inventory Service. The Product Service uses MongoDB as a database, the Inventory Service uses MySQL, and the Order Service uses MySQL as well. The system also includes an API Gateway for authorization and authentication using Keycloak and utilizes Netflix Eureka as a discovery server.
 
+## Build With
+
+<div>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+</div>
+
 ## Microservices Overview
 
 ![Microservices overview](https://github-production-user-asset-6210df.s3.amazonaws.com/56336283/250305353-34677dd3-74b4-4cff-942e-414e0504efa3.png)
