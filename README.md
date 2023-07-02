@@ -125,6 +125,27 @@ The system is designed using a microservices architecture pattern, where each mi
 
 9.  Test the system by accessing the APIs through the API Gateway.
 
+
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please submit a pull request. When contributing, please ensure that your changes are well-documented and adhere to the coding standards of the project. If you're unsure about any aspect of the system or the contribution process, feel free to open an issue for discussion.
+
+## Troubleshooting
+
+If you encounter any issues while setting up or running the Order Management System, here are a few troubleshooting steps you can follow:
+
+1.  **Check the Documentation**: Review the README and documentation files for each microservice to ensure you have followed all the necessary setup steps and configurations.
+    
+2.  **Search for Existing Issues**: Browse through the project's issue tracker on GitHub to see if someone has reported a similar problem or if there are any known workarounds or solutions.
+    
+3.  **Open a New Issue**: If you're unable to find a solution, open a new issue on the project's GitHub repository. Provide detailed information about the problem, including any error messages, relevant configurations, and steps to reproduce the issue.
+    
+4.  **Seek Help**: If you're still unable to resolve the problem, consider seeking help from the project's community. This can be done through forums, discussion boards, or other communication channels associated with the project.
+    
+
+Remember to be patient and provide as much information as possible when seeking assistance. This will help others understand and troubleshoot the issue more effectively.   
+
 ## Conclusion
 
 The Order Management System is a set of microservices built using Spring Boot. It includes three microservices: Order Service, Product Service, and Inventory Service, each using a different database. The system incorporates an API Gateway for authentication and authorization with Keycloak and utilizes Netflix Eureka for service discovery. By following the provided installation and setup instructions, you can run the system locally.
